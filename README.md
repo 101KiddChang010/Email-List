@@ -31,7 +31,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/KiddChang02/repo_name">
+  <a href="https://github.com/KiddChang02/Email-List">
     <!--
     <img src="images/logo.png" alt="Logo" width="80" height="80">
     -->
@@ -209,8 +209,6 @@ Distributed under the GNU General Public License v3.0 License. See `LICENSE.txt`
 ## Contact
 
 Kidd Chang - [@linkedin_Kidd_Chang](https://linkedin.com/in/kidd-chang-763258221)
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
