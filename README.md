@@ -17,12 +17,12 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][https://github.com/KiddChang02/Email-List/graphs/contributors]
-[![Forks][forks-shield]][https://github.com/KiddChang02/Email-List/network/members]
-[![Stargazers][stars-shield]][https://github.com/KiddChang02/Email-List/stargazers]
-[![Issues][issues-shield]][https://github.com/KiddChang02/Email-List/issues]
-[![GNU License][license-shield]][https://github.com/KiddChang02/Email-List/blob/main/LICENSE]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/kidd-chang-763258221/]
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![GNU License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
